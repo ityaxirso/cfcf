@@ -541,6 +541,8 @@ g:hover {
 
 
 @media (max-width: 700px) {
+  font-family: 'Tajawal', sans-serif;
+  
   /*nav {
     position: sticky;
     top: 0;
