@@ -255,13 +255,13 @@ nav {
 .magazine h4 {
   color: #000000;
   font-size: 1.4rem;
-  font-family: tmedium;
+  font-family: 'Tajawal', sans-serif;
   text-align: start;
   padding-right: 0.7em;
 }
 
 .magazine p{
-    font-family: tmedium;
+    font-family: 'Tajawal', sans-serif;
     padding: 1em;
     text-align: start;
 }
@@ -285,7 +285,7 @@ nav {
   .features-section h4 {
     color: #000000;
     font-size: 1.4rem;
-    font-family: tmedium;
+    font-family: 'Tajawal', sans-serif;
   }
 
   .features-section p{
@@ -296,7 +296,7 @@ nav {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    font-family: tmedium;
+    font-family: 'Tajawal', sans-serif;
     margin-top: 1rem;
   }
   
@@ -317,7 +317,7 @@ nav {
     justify-content: center;
     /*border: 2px solid rgb(66, 27, 121);*/
 
-    font-family: tmedium;
+    font-family: 'Tajawal', sans-serif;
 
   }
  
@@ -407,7 +407,7 @@ nav {
   align-items: center;
   text-align: center;
   padding: 2rem 0;
-  font-family: tmedium;
+  font-family: 'Tajawal', sans-serif;
   
   background-image: 
   linear-gradient(to top, rgba(255, 255, 255, 0.50), rgba(58, 22, 110, 0.50)),
@@ -427,7 +427,7 @@ nav {
 .intro-video .videos h4{
   color: #000000;
   font-size: 1.4rem;
-  font-family: tmedium;
+  font-family: 'Tajawal', sans-serif;
 }  
 
 
@@ -470,14 +470,14 @@ text-align: center;
 .footer-section h3 {
 font-size: 1rem;
 /*margin-bottom: 1rem;*/
-font-family: tmedium;
+font-family: 'Tajawal', sans-serif;
 color: #000000;
 }
 
 .footer-section p {
   font-size: 1rem;
   /*margin-bottom: 1rem;*/
-  font-family: tmedium;
+  font-family: 'Tajawal', sans-serif;
   color: #000000;
   }
 
@@ -522,7 +522,7 @@ color: #000000;
 
 .contacts p{
     font-size: 1rem;
-    font-family: tmedium;
+    font-family: 'Tajawal', sans-serif;
     color: #000000;
 }
 
@@ -546,7 +546,7 @@ g:hover {
 .email h3{
 font-size: 1rem;
 /*margin-bottom: 1rem;*/
-font-family: tbold;
+font-family: 'Tajawal', sans-serif;
 color: #000000;
 }
 
@@ -554,7 +554,7 @@ color: #000000;
 .email p{
 font-size: 1rem;
 /*margin-bottom: 1rem;*/
-font-family: tmedium;
+font-family: 'Tajawal', sans-serif;
 color: #000000;
 }
 
