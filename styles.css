@@ -401,6 +401,13 @@ nav {
 */
 
 
+
+iframe {
+  border: 1px solid #ccc; /* Add a border */
+  margin: 10px; /* Add some spacing */
+}
+
+
 .videos{
   display: flex;
   flex-direction: column;
