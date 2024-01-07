@@ -598,6 +598,17 @@ color: #000000;
     background-color: transparent;    
   }
 
+  iframe {
+    width: 100%;
+    height: 300px;
+    margin: 0em;
+    display: flex;
+    padding: 0em;
+    border-radius: 0em;
+    margin-top: 1em;
+    background-color: transparent; 
+}
+
   .hero h1 {
     font-size: 2.2em;
     margin-bottom: 10px;
