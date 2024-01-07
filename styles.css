@@ -60,7 +60,7 @@ nav {
     list-style: none;
     margin: 0;
     padding: 0;
-    font-family: tmedium;
+    font-family: 'Tajawal', sans-serif;
     justify-content: space-between;
     align-items: center;
     align-content: center;
@@ -104,7 +104,7 @@ nav {
     text-decoration: none;
     display: inline-block;
     /*font-size: 16px;*/
-    font-family: tmedium;
+    font-family: 'Tajawal', sans-serif;
   }
 
 
@@ -289,7 +289,7 @@ nav {
   }
 
   .features-section p{
-      font-family: tmedium;
+      font-family: 'Tajawal', sans-serif;
   }
   
   .features-section .qualities {
@@ -517,7 +517,7 @@ color: #000000;
 .contacts h4{
   color: #000000;
   font-size: 1.4rem;
-  font-family: tmedium;
+  font-family: 'Tajawal', sans-serif;
 }
 
 .contacts p{
