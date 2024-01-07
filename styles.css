@@ -536,6 +536,27 @@ g:hover {
 }
 
 
+.emil{
+  display: flex;  
+  justify-content: center;
+}
+
+
+.email h3{
+font-size: 1rem;
+/*margin-bottom: 1rem;*/
+font-family: tbold;
+color: #000000;
+}
+
+
+.email p{
+font-size: 1rem;
+/*margin-bottom: 1rem;*/
+font-family: tmedium;
+color: #000000;
+}
+
 
 
 
