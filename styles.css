@@ -235,7 +235,7 @@ nav {
   text-align: center;
   background-image:
     linear-gradient(to top, rgba(255, 255, 255, 0.50), rgba(58, 22, 110, 0.50)),
-    url("/images/bg2.jpg");
+    url("https://github.com/ityaxirso/cfcf/blob/main/images/bg2.jpg?raw=true");
     background-position: center;
     background-size: cover;
 }
@@ -410,7 +410,7 @@ nav {
   
   background-image: 
   linear-gradient(to top, rgba(255, 255, 255, 0.50), rgba(58, 22, 110, 0.50)),
-    url("../images/bg6.jpg");
+    url("https://github.com/ityaxirso/cfcf/blob/main/images/bg6.jpg?raw=true");
 
   background-position: center;
   background-size: cover;
