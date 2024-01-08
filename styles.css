@@ -94,7 +94,11 @@ nav {
   HOPES HOPES HOPES HOPES HOPES HOPES HOPES I ♡ U HOPES HOPES
   HOPES HOPES HOPES HOPES I ♡ UHOPES HOPES HOPES HOPES HOPES*/
   
+bn{
+  display: flex;
 
+  
+}
 
   a button {
     background-color: transparent;
