@@ -96,8 +96,7 @@ nav {
   
 .bn {
   display: flex;
-
-  
+  justify-content: space-between;
 }
 
   a button {
@@ -196,9 +195,9 @@ nav {
     border-radius: 100px;
     cursor: pointer;
     justify-content: center;
-    margin-left: 10em;
-    margin-right: 10em;
-    font-family: tmedium;
+    /*margin-left: 10em;
+    margin-right: 10em;*/
+    font-family: 'Tajawal', sans-serif;
     /*box-shadow: 10px 1px 30px rgba(58, 22, 110, 0.5);*/
   }
 
