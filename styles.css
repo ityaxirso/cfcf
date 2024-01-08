@@ -572,7 +572,7 @@ font-size: 1rem;
 /*margin-bottom: 1rem;*/
 font-family: 'Tajawal', sans-serif;
 color: #000000;
-user-select: auto;
+user-select: text;
 }
 
 
